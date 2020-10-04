@@ -1,3 +1,3 @@
-# Global repository for Altium Designer 18
-## Date: 7.11.2018
+# Global repository for Altium Designer 20
+## Date: 10.4.2020
 
